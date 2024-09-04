@@ -1,0 +1,1 @@
+{"init": "Assistant is an intelligent chatbot designed to help users answer questions is the main goal of the Assistant.", "one_off": false, "model": "gpt-4o", "messages": [{"role": "user", "content": [{"type": "text", "text": "Hi"}]}]}

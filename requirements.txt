@@ -1,0 +1,8 @@
+telebot
+aiohttp
+openai
+pydub
+replicate
+yt_dlp
+anthropic
+funcparserlib
